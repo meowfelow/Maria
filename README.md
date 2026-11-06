@@ -1,59 +1,48 @@
-# Maria
-I'm Maria, I can help.
 <div align="center">
-
-<img src="docs/logo.png" alt="Логотип проекта" width="120" />
-
-# Название проекта
-
-**Короткое описание в одну строку: что делает проект и для кого он.**
-
-[![License](https://img.shields.io/github/license/USERNAME/REPO?color=blue)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)](https://github.com/USERNAME/REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=social)](https://github.com/USERNAME/REPO/network/members)
-[![Issues](https://img.shields.io/github/issues/USERNAME/REPO)](https://github.com/USERNAME/REPO/issues)
-[![CI](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/REPO/actions/workflows/ci.yml)
-
-[Демо](https://example.com) · [Документация](https://example.com/docs) · [Сообщить об ошибке](https://github.com/USERNAME/REPO/issues/new) · [Предложить идею](https://github.com/USERNAME/REPO/issues/new)
-
+  <h1>Hi there, I'm maria 👋</h1>
+  <h3>Full Stack Developer from ВАШ_ГОРОД</h3>
+  
+  <!-- Кнопки соцсетей (можно заменить ссылки) -->
+  <a href="https://linkedin.com/in/ваш-профиль" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ваш-профиль" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://t.me/ваш-профиль" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
 
----
+<br/>
 
-## 📸 Скриншот
+## About me
 
-<div align="center">
-  <img src="docs/screenshot.png" alt="Скриншот проекта" width="800" />
+- 🌱 I’m currently learning **Web3, GameDev**
+- 📝 I regularly write articles on [Medium](https://medium.com/@ваш-профиль)
+- 💬 Know about my experiences [LinkedIn](https://linkedin.com/in/ваш-профиль)
+- 📫 Reach me by **ваша@почта.com**
+- 🌐 I speak English
+
+<br/>
+
+## Languages and tools
+
+<div align="left">
+  <!-- Иконки технологий через сервис skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,angular,bootstrap,ts" alt="My Skills" />
 </div>
 
-> Замените картинку на скриншот, GIF-демо или короткое видео.
+<br/>
 
-## ✨ Возможности
+## My stat
 
-- 🚀 **Быстрый старт** — запуск за пару минут.
-- 🎨 **Современный интерфейс** — адаптивный и понятный.
-- 🔒 **Безопасность** — продуманные настройки по умолчанию.
-- 🧩 **Расширяемость** — легко добавить свои модули.
-- 📦 **Готово к продакшену** — Docker, CI/CD, тесты.
-
-## 🧰 Технологии
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-## 🚀 Быстрый старт
-
-### Требования
-
-- Node.js 20+
-- npm / pnpm / yarn
-- Docker (опционально)
-
-### Установка
-
-```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
-npm install
+<div align="left">
+  <!-- Основная статистика (зеленый график с фото) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <!-- Топ языков (круглая диаграмма с фото) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ВАШ_НИКНЕЙМ&theme=github_dark&exclude={org1,org2}" alt="Top Languages" />
+</div>
