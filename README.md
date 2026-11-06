@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm maria 👋</h1>
-  <h3>Full Stack Developer from ВАШ_ГОРОД</h3>
+  <h3>Full Stack Developer from Minsk</h3>
   
   <!-- Кнопки соцсетей (можно заменить ссылки) -->
   <a href="https://linkedin.com/in/ваш-профиль" target="_blank">
@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Web3, GameDev**
 - 📝 I regularly write articles on [Medium](https://medium.com/@ваш-профиль)
 - 💬 Know about my experiences [LinkedIn](https://linkedin.com/in/ваш-профиль)
-- 📫 Reach me by **ваша@почта.com**
+- 📫 Reach me by **mashakosaya2010@gmail.com**
 - 🌐 I speak English
 
 <br/>
